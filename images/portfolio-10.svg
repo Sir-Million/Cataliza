@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="200" fill="#ff6b9d"/>
+  <rect width="400" height="100" y="200" fill="#ffe0e6"/>
+  <text x="100" y="110" font-size="44" fill="#fff" opacity="0.4" font-family="Arial">♫</text>
+  <text x="200" y="110" font-size="44" fill="#fff" opacity="0.4" font-family="Arial">♪</text>
+  <text x="300" y="110" font-size="44" fill="#fff" opacity="0.4" font-family="Arial">♫</text>
+  <text x="200" y="260" font-size="18" font-weight="bold" text-anchor="middle" fill="#666">Music</text>
+</svg>

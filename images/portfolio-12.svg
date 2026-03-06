@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="200" fill="#ffc0d4"/>
+  <rect width="400" height="100" y="200" fill="#fff"/>
+  <rect x="60" y="40" width="70" height="90" fill="#ff6b9d" opacity="0.3" rx="4"/>
+  <rect x="170" y="50" width="70" height="80" fill="#ff6b9d" opacity="0.4" rx="4"/>
+  <rect x="280" y="30" width="70" height="100" fill="#ff6b9d" opacity="0.2" rx="4"/>
+  <text x="200" y="260" font-size="18" font-weight="bold" text-anchor="middle" fill="#666">Project</text>
+</svg>

@@ -1,0 +1,89 @@
+{
+  "services": {
+    "1": {
+      "id": 1,
+      "title": "Desarrollo Frontend",
+      "category": "Frontend",
+      "icon": "💻",
+      "image": "images/service-frontend.svg",
+      "description": "Interfaces modernas y responsivas con React, Vue o Vanilla JS",
+      "fullDescription": "Creamos experiencias de usuario excepcionales con tecnologías frontend de última generación. Desde landing pages hasta aplicaciones web complejas, siempre con foco en performance y accesibilidad.",
+      "features": [
+        "Diseño responsivo",
+        "Optimización SEO",
+        "Performance tuning",
+        "Accesibilidad WCAG"
+      ],
+      "technologies": ["React", "Vue", "TypeScript", "CSS3", "JavaScript ES6+"],
+      "deliverables": "Código limpio, documentado y listo para producción"
+    },
+    "2": {
+      "id": 2,
+      "title": "Desarrollo Backend",
+      "category": "Backend",
+      "icon": "⚙️",
+      "image": "images/service-backend.svg",
+      "description": "APIs escalables y seguros con Node.js, Python o frameworks modernos",
+      "fullDescription": "Construimos la infraestructura digital de tu negocio con arquitecturas robustas, seguras y escalables. Desde APIs REST hasta microservicios, manejamos bases de datos, autenticación y más.",
+      "features": [
+        "APIs escalables",
+        "Seguridad enterprise",
+        "Integración de BD",
+        "Autenticación JWT"
+      ],
+      "technologies": ["Node.js", "Python", "Express", "PostgreSQL", "MongoDB"],
+      "deliverables": "Servidor en producción con monitoreo y logs"
+    },
+    "3": {
+      "id": 3,
+      "title": "Diseño UX/UI",
+      "category": "Design",
+      "icon": "🎨",
+      "image": "images/service-design.svg",
+      "description": "Diseño intuitivo y atractivo que convierte visitantes en clientes",
+      "fullDescription": "Combinamos research, wireframes y prototipos para crear interfaces que no solo se ven bien, sino que resuelven problemas reales. Cada píxel con propósito.",
+      "features": [
+        "Investigación UX",
+        "Prototipos interactivos",
+        "Design systems",
+        "Testing con usuarios"
+      ],
+      "technologies": ["Figma", "Adobe XD", "Protopie", "User Testing"],
+      "deliverables": "Especificaciones de diseño + archivos editable"
+    },
+    "4": {
+      "id": 4,
+      "title": "SEO y Performance",
+      "category": "Optimización",
+      "icon": "⚡",
+      "image": "images/service-seo.svg",
+      "description": "Mejora tu posicionamiento y velocidad en buscadores",
+      "fullDescription": "Optimizamos tu sitio para Google. Análisis técnico SEO, Core Web Vitals, estructura de datos, backlinks estratégicos y reportes detallados.",
+      "features": [
+        "SEO técnico",
+        "Core Web Vitals",
+        "Análisis competitivo",
+        "Strategy de contenido"
+      ],
+      "technologies": ["Google Analytics", "Semrush", "Schema.org", "PageSpeed Insights"],
+      "deliverables": "Auditoría + plan de mejora + reportes mensuales"
+    },
+    "5": {
+      "id": 5,
+      "title": "Mantenimiento y Soporte",
+      "category": "Soporte",
+      "icon": "🛠️",
+      "image": "images/service-support.svg",
+      "description": "Mantén tu sitio actualizado, seguro y funcionando 24/7",
+      "fullDescription": "Nos encargamos del mantenimiento continuo de tu aplicación. Actualizaciones de seguridad, bug fixes, monitoreo y soporte técnico.",
+      "features": [
+        "Monitoreo 24/7",
+        "Actualizaciones automáticas",
+        "Backup diario",
+        "Soporte prioritario"
+      ],
+      "technologies": ["Uptime Monitoring", "CI/CD", "Backup Services", "Security Patches"],
+      "deliverables": "Sitio siempre disponible con SLA garantizado"
+    }
+  }
+}

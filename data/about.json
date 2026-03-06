@@ -1,0 +1,57 @@
+{
+  "about": {
+    "title": "Sobre Nosotros",
+    "hero": {
+      "heading": "Transformamos ideas en soluciones digitales",
+      "subheading": "Con más de 8 años de experiencia en desarrollo web",
+      "image": "images/about-hero.svg"
+    },
+    "sections": [
+      {
+        "heading": "¿Quiénes Somos?",
+        "content": "Somos un equipo de desarrolladores, diseñadores y estrategas apasionados por crear soluciones digitales impactantes. Nuestro objetivo es ayudarte a alcanzar tus metas mediante tecnología innovadora y diseño pensado en tus usuarios.\n\nCada proyecto es una oportunidad para crear algo extraordinario. No nos conformamos con lo ordinario."
+      },
+      {
+        "heading": "Nuestra Expertise",
+        "content": "Especialistas en frontend moderno con tecnologías como React y Vue. Expertos en backend escalable con Node.js y Python. Diseñadores que comprenden UX/UI. SEO specialists que posicionan en Google. Todo lo necesario para llevar tu proyecto al siguiente nivel."
+      },
+      {
+        "heading": "Nuestros Valores",
+        "content": "Transparencia en todo proceso. Calidad sin compromisos. Comunicación constante. Innovación permanente. Responsabilidad con cada línea de código. Compromiso con tu éxito.\n\nTrabajamos contigo, no para ti. Tu visión es nuestra misión."
+      }
+    ],
+    "stats": {
+      "projects": "120+",
+      "satisfied_clients": "85+",
+      "years_experience": "8+",
+      "team_members": "12"
+    },
+    "team": [
+      {
+        "name": "Juan Pérez",
+        "role": "Lead Developer / Founder",
+        "image": "images/team-1.svg",
+        "specialty": "Full Stack & Architecture"
+      },
+      {
+        "name": "Sofia Mendez",
+        "role": "Design Lead",
+        "image": "images/team-2.svg",
+        "specialty": "UX/UI & Branding"
+      },
+      {
+        "name": "Pablo González",
+        "role": "Frontend Specialist",
+        "image": "images/team-3.svg",
+        "specialty": "React & Performance"
+      },
+      {
+        "name": "Elena Costa",
+        "role": "Backend Specialist",
+        "image": "images/team-4.svg",
+        "specialty": "Node.js & Databases"
+      }
+    ],
+    "technologies": ["Node.js", "Firebase", "React", "Python", "Django", "MongoDB"]
+  }
+}

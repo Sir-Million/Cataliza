@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300">
+  <rect width="400" height="200" fill="#ff8fb7"/>
+  <rect width="400" height="100" y="200" fill="#faf7fc"/>
+  <path d="M 100 150 Q 200 100 300 150" fill="none" stroke="#fff" stroke-width="3" opacity="0.7"/>
+  <pair stroke="#fff" fill="none" d="M 150 180 Q 200 150 250 180"/>
+  <text x="200" y="260" font-size="18" font-weight="bold" text-anchor="middle" fill="#666">Delivery</text>
+</svg>

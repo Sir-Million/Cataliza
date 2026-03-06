@@ -1,0 +1,55 @@
+/* ===== THEME TOGGLE BUTTON ===== */
+.theme-label {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    user-select: none;
+    padding: 8px 10px;
+    border-radius: var(--border-radius);
+    background-color: rgba(255, 255, 255, 0.3);
+    border: 1.5px solid rgba(255, 255, 255, 0.5);
+    backdrop-filter: blur(10px);
+    transition: all var(--transition-speed) var(--transition-timing);
+}
+
+.theme-label:hover {
+    background-color: rgba(255, 255, 255, 0.4);
+    border-color: rgba(255, 255, 255, 0.7);
+    transform: scale(1.05);
+}
+
+#theme-toggle {
+    display: none;
+}
+
+.theme-icon {
+    width: 24px;
+    height: 24px;
+    color: var(--header-text);
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    transition: opacity var(--transition-speed) var(--transition-timing),
+                transform 0.6s var(--transition-timing);
+}
+
+.theme-icon--light {
+    opacity: 1;
+    transform: rotate(0deg);
+}
+
+.theme-icon--dark {
+    opacity: 0;
+    transform: rotate(-90deg);
+    position: absolute;
+}
+
+#theme-toggle:checked ~ .theme-icon--light {
+    opacity: 0;
+    transform: rotate(90deg);
+}
+
+#theme-toggle:checked ~ .theme-icon--dark {
+    opacity: 1;
+    transform: rotate(0deg);
+}

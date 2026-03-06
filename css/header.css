@@ -1,0 +1,61 @@
+/* ===== HEADER ===== */
+header {
+    background: var(--header-bg);
+    color: var(--header-text);
+    padding: 20px 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5%;
+    align-items: center;
+    box-shadow: 0 8px 32px rgba(255, 107, 157, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    min-height: 100px;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    justify-content: space-between;
+}
+
+.headitem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+header h1 {
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+header a {
+    color: var(--header-text);
+    text-decoration: none;
+    position: relative;
+    display: inline-block;
+}
+
+header a::after {
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: var(--header-text);
+    opacity: 0.7;
+    transition: width var(--transition-speed) var(--transition-timing);
+}
+
+header a:hover::after {
+    width: 100%;
+}
+
+/* ===== DATE & TIME DISPLAY ===== */
+#date,
+#time {
+    color: var(--header-text);
+    font-weight: 600;
+    font-size: 14px;
+}

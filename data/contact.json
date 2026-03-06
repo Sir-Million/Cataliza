@@ -1,0 +1,109 @@
+{
+  "contact": {
+    "heading": "¿Listo para tu siguiente proyecto?",
+    "subheading": "Cuéntanos tu idea y conectemos",
+    "methods": [
+      {
+        "icon": "📧",
+        "type": "Email",
+        "value": "hello@nexora.dev",
+        "link": "mailto:hello@nexora.dev"
+      },
+      {
+        "icon": "💬",
+        "type": "WhatsApp",
+        "value": "+34 912 345 678",
+        "link": "https://wa.me/34912345678"
+      },
+      {
+        "icon": "📱",
+        "type": "Teléfono",
+        "value": "+34 912 345 678",
+        "link": "tel:+34912345678"
+      },
+      {
+        "icon": "📍",
+        "type": "Ubicación",
+        "value": "Madrid, España",
+        "link": "https://maps.google.com/?q=Madrid"
+      }
+    ],
+    "form": {
+      "title": "Escribenos directamente",
+      "fields": [
+        {
+          "name": "name",
+          "label": "Tu nombre",
+          "type": "text",
+          "placeholder": "Juan Pérez",
+          "required": true
+        },
+        {
+          "name": "email",
+          "label": "Tu email",
+          "type": "email",
+          "placeholder": "juan@example.com",
+          "required": true
+        },
+        {
+          "name": "phone",
+          "label": "Teléfono (opcional)",
+          "type": "tel",
+          "placeholder": "+34 912 345 678",
+          "required": false
+        },
+        {
+          "name": "company",
+          "label": "Empresa (opcional)",
+          "type": "text",
+          "placeholder": "Mi Empresa",
+          "required": false
+        },
+        {
+          "name": "subject",
+          "label": "Asunto",
+          "type": "select",
+          "required": true,
+          "options": [
+            "Nuevo Proyecto",
+            "Consultoría",
+            "Bug Fix",
+            "Redesign",
+            "Soporte",
+            "Otra"
+          ]
+        },
+        {
+          "name": "message",
+          "label": "Tu mensaje",
+          "type": "textarea",
+          "placeholder": "Cuéntanos tu idea en detalle...",
+          "required": true,
+          "rows": 6
+        },
+        {
+          "name": "budget",
+          "label": "Rango de presupuesto",
+          "type": "select",
+          "required": false,
+          "options": [
+            "< €1.000",
+            "€1.000 - €5.000",
+            "€5.000 - €10.000",
+            "€10.000 - €25.000",
+            "€25.000+",
+            "A discutir"
+          ]
+        }
+      ],
+      "submitButton": "Enviar Mensaje",
+      "successMessage": "¡Gracias! Nos pondremos en contacto pronto.",
+      "errorMessage": "Hubo un error. Por favor intenta de nuevo."
+    },
+    "availability": {
+      "status": "Disponible",
+      "responseTime": "24-48 horas",
+      "businessDays": "Lunes a Viernes"
+    }
+  }
+}

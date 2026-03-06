@@ -1,0 +1,48 @@
+{
+  "reviews": {
+    "1": {
+      "id": 1,
+      "clientName": "María García",
+      "company": "Tech Startup Co.",
+      "position": "CEO",
+      "image": "images/client-1.svg",
+      "rating": 5,
+      "testimonial": "Excelente trabajo, entregaron a tiempo y con calidad excepcional. El equipo fue muy profesional y atento a todos nuestros requerimientos.",
+      "project": "Plataforma SaaS",
+      "completionDate": "2025-11-15"
+    },
+    "2": {
+      "id": 2,
+      "clientName": "Carlos López",
+      "company": "E-commerce Global",
+      "position": "Director de IT",
+      "image": "images/client-2.svg",
+      "rating": 5,
+      "testimonial": "Transformaron completamente nuestra presencia digital. La velocidad del sitio mejoró 300% y las conversiones aumentaron significativamente.",
+      "project": "Rediseño E-commerce",
+      "completionDate": "2025-10-20"
+    },
+    "3": {
+      "id": 3,
+      "clientName": "Ana Rodríguez",
+      "company": "Consultoría de Negocios",
+      "position": "Gerente General",
+      "image": "images/client-3.svg",
+      "rating": 4.5,
+      "testimonial": "Gran comunicación durante todo el proyecto. Muy recomendables, definitivamente volvería a trabajar con ellos.",
+      "project": "Portal de Clientes",
+      "completionDate": "2025-09-10"
+    },
+    "4": {
+      "id": 4,
+      "clientName": "Roberto Martínez",
+      "company": "Agencia Marketing Digital",
+      "position": "Founder",
+      "image": "images/client-4.svg",
+      "rating": 5,
+      "testimonial": "Los mejores en el mercado. Pusieron mucho corazón en el proyecto y se vio reflejado en el resultado final. Perfectos.",
+      "project": "Dashboard Analítica",
+      "completionDate": "2025-08-30"
+    }
+  }
+}

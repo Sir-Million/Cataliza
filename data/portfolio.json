@@ -1,0 +1,148 @@
+{
+  "portfolio": [
+    {
+      "id": 1,
+      "title": "TechFlow SaaS",
+      "category": "SaaS",
+      "image": "images/portfolio-1.svg",
+      "thumbnail": "images/portfolio-1-thumb.svg",
+      "description": "Plataforma de gestión de proyectos con tiempo real",
+      "technologies": ["React", "Node.js", "MongoDB", "Socket.io"],
+      "year": 2025,
+      "link": "https://techflow-demo.com",
+      "details": "Desarrollamos una plataforma SaaS completa con colaboración en tiempo real, gestión de tareas avanzada y dashboard personalizable."
+    },
+    {
+      "id": 2,
+      "title": "Global Shop",
+      "category": "E-commerce",
+      "image": "images/portfolio-2.svg",
+      "thumbnail": "images/portfolio-2-thumb.svg",
+      "description": "E-commerce de ropa con 50+ categorías",
+      "technologies": ["Next.js", "Stripe", "PostgreSQL", "Vercel"],
+      "year": 2024,
+      "link": "https://globalshop-demo.com",
+      "details": "E-commerce de alto rendimiento con sistema de pago integrado, gestión de inventario y dashboard administrativo."
+    },
+    {
+      "id": 3,
+      "title": "Analytics Dashboard",
+      "category": "Dashboard",
+      "image": "images/portfolio-3.svg",
+      "thumbnail": "images/portfolio-3-thumb.svg",
+      "description": "Dashboard interactivo con visualización de datos",
+      "technologies": ["Vue.js", "D3.js", "Express", "PostgreSQL"],
+      "year": 2024,
+      "link": "https://analytics-demo.com",
+      "details": "Dashboard empresarial con gráficos complejos, filtros avanzados y exportación de reportes en tiempo real."
+    },
+    {
+      "id": 4,
+      "title": "Fitness Hub",
+      "category": "App Móvil",
+      "image": "images/portfolio-4.svg",
+      "thumbnail": "images/portfolio-4-thumb.svg",
+      "description": "Aplicación de entrenamiento con seguimiento de progreso",
+      "technologies": ["React Native", "Firebase", "Cloud Functions"],
+      "year": 2024,
+      "link": "https://fitnesshub-demo.com",
+      "details": "App móvil con rutinas de ejercicio personalizadas, seguimiento de progreso y comunidad de usuarios."
+    },
+    {
+      "id": 5,
+      "title": "Medical Connect",
+      "category": "Healthcare",
+      "image": "images/portfolio-5.svg",
+      "thumbnail": "images/portfolio-5-thumb.svg",
+      "description": "Plataforma telemedicina con videollamadas",
+      "technologies": ["React", "Node.js", "WebRTC", "PostgreSQL"],
+      "year": 2024,
+      "link": "https://medicalconnect-demo.com",
+      "details": "Sistema de telemedicina con videollamadas, chat, historial médico cifrado y cumplimiento HIPAA."
+    },
+    {
+      "id": 6,
+      "title": "Travel Adventures",
+      "category": "Travel",
+      "image": "images/portfolio-6.svg",
+      "thumbnail": "images/portfolio-6-thumb.svg",
+      "description": "Plataforma de reserva de viajes y tours",
+      "technologies": ["Next.js", "Stripe", "Google Maps API", "Vercel"],
+      "year": 2023,
+      "link": "https://traveladventures-demo.com",
+      "details": "Plataforma de viajes con integración de mapas, sistema de reservas, pagos y reseñas de usuarios."
+    },
+    {
+      "id": 7,
+      "title": "Real Estate Pro",
+      "category": "Real Estate",
+      "image": "images/portfolio-7.svg",
+      "thumbnail": "images/portfolio-7-thumb.svg",
+      "description": "Portal inmobiliario con búsqueda avanzada",
+      "technologies": ["Vue.js", "Laravel", "PostgreSQL", "AWS"],
+      "year": 2023,
+      "link": "https://realestateep-demo.com",
+      "details": "Portal inmobiliario con filtros avanzados, tours virtuales 3D, cálculo de hipotecas y contacto directo."
+    },
+    {
+      "id": 8,
+      "title": "Food Delivery",
+      "category": "Marketplace",
+      "image": "images/portfolio-8.svg",
+      "thumbnail": "images/portfolio-8-thumb.svg",
+      "description": "App de entrega de comida con GPS en tiempo real",
+      "technologies": ["React Native", "Node.js", "MongoDB", "Google Maps API"],
+      "year": 2023,
+      "link": "https://fooddelivery-demo.com",
+      "details": "Aplicación de delivery con tracking GPS, chat en tiempo real y sistema de calificaciones."
+    },
+    {
+      "id": 9,
+      "title": "Education Platform",
+      "category": "EdTech",
+      "image": "images/portfolio-9.svg",
+      "thumbnail": "images/portfolio-9-thumb.svg",
+      "description": "LMS con cursos, certificados y videoconferencias",
+      "technologies": ["React", "Python Django", "PostgreSQL", "AWS"],
+      "year": 2023,
+      "link": "https://eduplatform-demo.com",
+      "details": "Plataforma educativa completa con videoclases, quizzes, certificados y gamificación."
+    },
+    {
+      "id": 10,
+      "title": "Music Streaming",
+      "category": "Entertainment",
+      "image": "images/portfolio-10.svg",
+      "thumbnail": "images/portfolio-10-thumb.svg",
+      "description": "Servicio de streaming de música con recomendaciones IA",
+      "technologies": ["React", "Node.js", "MongoDB", "Redis"],
+      "year": 2023,
+      "link": "https://musicstreaming-demo.com",
+      "details": "Plataforma de streaming con recomendaciones personalizadas, playlists colaborativas y análisis de escucha."
+    },
+    {
+      "id": 11,
+      "title": "Social Network",
+      "category": "Social",
+      "image": "images/portfolio-11.svg",
+      "thumbnail": "images/portfolio-11-thumb.svg",
+      "description": "Red social con feed, mensajes y notificaciones",
+      "technologies": ["React", "Node.js", "MongoDB", "Socket.io"],
+      "year": 2023,
+      "link": "https://socialnetwork-demo.com",
+      "details": "Red social con feed dinámico, sistema de seguimiento, mensajería en tiempo real y notificaciones push."
+    },
+    {
+      "id": 12,
+      "title": "Project Management",
+      "category": "Productivity",
+      "image": "images/portfolio-12.svg",
+      "thumbnail": "images/portfolio-12-thumb.svg",
+      "description": "Herramienta colaborativa de gestión de proyectos",
+      "technologies": ["Vue.js", "Node.js", "PostgreSQL", "Docker"],
+      "year": 2022,
+      "link": "https://projmanagement-demo.com",
+      "details": "Herramienta de gestión con tableros Kanban, Gantt, comentarios en tiempo real e integraciones."
+    }
+  ]
+}

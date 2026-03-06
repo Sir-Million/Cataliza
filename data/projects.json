@@ -1,0 +1,54 @@
+{
+  "projects": {
+    "1": {
+      "title": "Proyecto 1",
+      "category": "Web Design",
+      "date": "2025-06-15",
+      "technologies": ["React", "TypeScript", "Tailwind CSS"],
+      "description": "Un proyecto de desarrollo web moderno utilizando las últimas tecnologías. Este proyecto demuestra el uso de diseño responsive, animaciones fluidas y una arquitectura de código limpia.",
+      "details": "Incluye componentes reutilizables, sistema de temas dinámico y optimización de rendimiento.",
+      "link": "https://proyecto1.com",
+      "github": "https://github.com/cataliza/proyecto1"
+    },
+    "2": {
+      "title": "Proyecto 2",
+      "category": "Full Stack",
+      "date": "2025-08-20",
+      "technologies": ["Node.js", "MongoDB", "Express", "React"],
+      "description": "Aplicación completa con backend escalable y frontend moderno. Incluye autenticación, base de datos en tiempo real y un sistema de notificaciones robusto.",
+      "details": "API RESTful completa con validación de datos, middleware personalizado y deployment en producción.",
+      "link": "https://proyecto2.com",
+      "github": "https://github.com/cataliza/proyecto2"
+    },
+    "3": {
+      "title": "Proyecto 3",
+      "category": "Frontend",
+      "date": "2025-04-10",
+      "technologies": ["Vue.js", "SCSS", "Webpack"],
+      "description": "Sistema de diseño completo con componentes reutilizables, guía de estilos y documentación interactiva para developers.",
+      "details": "Incluye Storybook para documentación de componentes y testing automatizado con Jest.",
+      "link": "https://proyecto3.com",
+      "github": "https://github.com/cataliza/proyecto3"
+    },
+    "4": {
+      "title": "Proyecto 4",
+      "category": "Backend",
+      "date": "2025-09-05",
+      "technologies": ["Python", "Django", "PostgreSQL"],
+      "description": "Servicios backend escalables construidos con arquitectura microservicios. API RESTful completa con autenticación JWT y manejo robusto de errores.",
+      "details": "Incluye documentación con Swagger, testing con pytest y CI/CD pipeline automático.",
+      "link": "https://proyecto4.com",
+      "github": "https://github.com/cataliza/proyecto4"
+    },
+    "5": {
+      "title": "Proyecto 5",
+      "category": "UI/UX",
+      "date": "2025-07-18",
+      "technologies": ["Figma", "Framer", "Adobe XD"],
+      "description": "Dashboard de análisis de datos con visualizaciones interactivas y experiencia de usuario optimizada. Integración con diferentes fuentes de datos.",
+      "details": "Incluye reportes en tiempo real, exportación de datos y accesibilidad WCAG 2.1 AA.",
+      "link": "https://proyecto5.com",
+      "github": "https://github.com/cataliza/proyecto5"
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "policies": {
+    "terms": {
+      "title": "Términos de Servicio",
+      "type": "legal",
+      "sections": [
+        {
+          "heading": "Aceptación de Términos",
+          "content": "Al acceder y usar este sitio web, aceptas estar vinculado por estos términos y condiciones. Si no estás de acuerdo con alguna parte de estos términos, no debes usar este sitio."
+        },
+        {
+          "heading": "Licencia de Uso",
+          "content": "Se te otorga una licencia limitada, no exclusiva e intransferible para usar este sitio bajo los términos de este acuerdo. Está prohibido reproducir, distribuir o transmitir cualquier contenido sin autorización previa."
+        },
+        {
+          "heading": "Limitación de Responsabilidad",
+          "content": "Este sitio y su contenido se proporcionan \"tal cual\". No somos responsables por daños indirectos, incidentales o consecuentes derivados del uso de este sitio."
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Política de Privacidad",
+      "type": "legal",
+      "sections": [
+        {
+          "heading": "Información que Recopilamos",
+          "content": "Recopilamos información que voluntariamente proporcionas, como tu nombre y correo electrónico cuando completas formularios. También recopilamos datos de uso a través de cookies y análisis."
+        },
+        {
+          "heading": "Cómo Usamos tu Información",
+          "content": "Tu información se utiliza para mejorar nuestros servicios, responderte consultas y enviarte actualizaciones. No compartimos tu información con terceros sin tu consentimiento."
+        },
+        {
+          "heading": "Seguridad de Datos",
+          "content": "Implementamos medidas de seguridad para proteger tu información. Sin embargo, ningún método de transmisión por internet es 100% seguro."
+        }
+      ]
+    },
+    "cookies": {
+      "title": "Política de Cookies",
+      "type": "legal",
+      "sections": [
+        {
+          "heading": "¿Qué son las Cookies?",
+          "content": "Las cookies son pequeños archivos de texto que se almacenan en tu navegador. Las utilizamos para mejorar tu experiencia e identificar preferencias."
+        },
+        {
+          "heading": "Tipos de Cookies",
+          "content": "Utilizamos cookies esenciales (necesarias para funcionar), analíticas (para entender uso) y de preferencia (para recordar configuración como modo oscuro)."
+        },
+        {
+          "heading": "Control de Cookies",
+          "content": "Puedes controlar las cookies a través de la configuración de tu navegador. Desactivar cookies puede afectar la funcionalidad del sitio."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,67 @@
+.loading-screen {
+    color: whitesmoke;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #212121;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    transition: opacity 0.3s ease-in-out;
+    display: flex;
+    flex-direction: column;
+}
+
+.loading-screen p {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+
+.loading-screen p .loadspan {
+    animation: blink 1s infinite;
+}
+
+@keyframes blink {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+
+.loading-screen .spinner {
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.fade-out {
+    animation: fadeOut 1.5s ease-in-out forwards;
+}
+
+/* animacion @keyframes */
+
+@keyframes fadeOut {
+    0% {
+        opacity: 1;
+        scale: 1;
+    }
+    100% {
+        opacity: 0;
+        scale: 100;
+    }
+}
